@@ -44,12 +44,18 @@ The project integrates simulation, control, and planning inside a unified workfl
 ---
 
 ## Project Structure
-main.m                       % Main script to run the full simulation
-DiMauro_Galluzzi_Andres_2024_finalversion.slx         % Simulink model of the UAV and controllers
-trajectory_data.mat          % Precomputed trajectory for Simulink
-PlanningPathFunction.m		 % RRT* planner for obstacle avoidance   
-map_tools              % Auxiliary mapping and environment tools
-Adaptive and Autonomous Presentation.ppt             % Full project workflow, analysis, and results
+main.m                       % Main script to run the full simulation  
+
+DiMauro_Galluzzi_Andres_2024_finalversion.slx         % Simulink model of the UAV and controllers 
+
+trajectory_data.mat          % Precomputed trajectory for Simulink 
+
+PlanningPathFunction.m		 % RRT* planner for obstacle avoidance  
+
+map_tools              % Auxiliary mapping and environment tools 
+
+Adaptive and Autonomous Presentation.ppt             % Full project workflow, analysis, and results 
+
 
 ---
 
