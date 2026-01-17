@@ -54,7 +54,7 @@ PlanningPathFunction.m		 % RRT* planner for obstacle avoidance
 
 map_tools              % Auxiliary mapping and environment tools 
 
-Adaptive and Autonomous Presentation.ppt             % Full project workflow, analysis, and results 
+Adaptive and Autonomous Presentation.pptx             % Full project workflow, analysis, and results 
 
 
 ---
